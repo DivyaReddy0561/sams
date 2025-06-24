@@ -1,1 +1,1 @@
- this demo for git 
+This is demo for git 
